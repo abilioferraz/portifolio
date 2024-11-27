@@ -16,6 +16,13 @@ body {
     padding: 0;
 }
 
+.container{
+    max-width: 1000px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
 header {
     background-color: #2299CC;
     color: #F6F6F6;
